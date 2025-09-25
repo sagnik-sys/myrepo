@@ -1,0 +1,26 @@
+[
+  {
+    "id": "rpt_1",
+    "description": "Pothole on Main St near 3rd Ave",
+    "department": "Public Works",
+    "status": "Pending",
+    "citizenId": "usr_1",
+    "deptId": "dep_public_works",
+    "images": [],
+    "voice": null,
+    "createdAt": "2025-01-01T10:00:00.000Z"
+  },
+  {
+    "id": "rpt_2",
+    "description": "Streetlight not working outside library",
+    "department": "Utilities",
+    "status": "In-Progress",
+    "citizenId": "usr_2",
+    "deptId": "dep_utilities",
+    "images": [],
+    "voice": null,
+    "createdAt": "2025-01-05T14:30:00.000Z"
+  }
+]
+
+
